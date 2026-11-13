@@ -1,4 +1,4 @@
-# 🇮🇳 India App Experience Index
+# India App Experience Index
 
 ### Turning millions of consumer opinions into actionable product intelligence.
 
