@@ -1,1 +1,33 @@
 
+app_id,app_name,category,package_name,country,language_scope,target_reviews,package_status
+APP001,PhonePe,Fintech,com.phonepe.app,IN,multi_language,1000,pending_verification
+APP002,Paytm,Fintech,net.one97.paytm,IN,multi_language,1000,pending_verification
+APP003,CRED,Fintech,com.dreamplug.androidapp,IN,multi_language,1000,pending_verification
+APP004,Groww,Fintech,com.nextbillion.groww,IN,multi_language,1000,pending_verification
+APP005,Zerodha Kite,Fintech,com.zerodha.kite,IN,multi_language,1000,pending_verification
+APP006,BHIM,Fintech,in.org.npci.upiapp,IN,multi_language,1000,pending_verification
+APP007,Blinkit,Quick Commerce and Food,com.grofers.customerapp,IN,multi_language,1000,pending_verification
+APP008,Zepto,Quick Commerce and Food,com.zepto,IN,multi_language,1000,pending_verification
+APP009,Swiggy,Quick Commerce and Food,in.swiggy.android,IN,multi_language,1000,pending_verification
+APP010,Zomato,Quick Commerce and Food,com.application.zomato,IN,multi_language,1000,pending_verification
+APP011,BigBasket,Quick Commerce and Food,com.bigbasket.mobileapp,IN,multi_language,1000,pending_verification
+APP012,Flipkart,Commerce and Fashion,com.flipkart.android,IN,multi_language,1000,pending_verification
+APP013,Meesho,Commerce and Fashion,com.meesho.supply,IN,multi_language,1000,pending_verification
+APP014,Myntra,Commerce and Fashion,com.myntra.android,IN,multi_language,1000,pending_verification
+APP015,AJIO,Commerce and Fashion,com.ril.ajio,IN,multi_language,1000,pending_verification
+APP016,Tata CLiQ,Commerce and Fashion,com.tataunistore,IN,multi_language,1000,pending_verification
+APP017,Amazon India,Commerce and Fashion,in.amazon.mShop.android.shopping,IN,multi_language,1000,pending_verification
+APP018,Nykaa,Beauty and Personal Care,com.fsn.nykaa,IN,multi_language,1000,pending_verification
+APP019,Purplle,Beauty and Personal Care,com.manash.purplle,IN,multi_language,1000,pending_verification
+APP020,Tira,Beauty and Personal Care,com.ril.tira,IN,multi_language,1000,pending_verification
+APP021,Mamaearth,Beauty and Personal Care,com.mamaearthapp,IN,multi_language,1000,pending_verification
+APP022,Smytten,Beauty and Personal Care,com.app.smytten,IN,multi_language,1000,pending_verification
+APP023,Ola,Mobility and Travel,com.olacabs.customer,IN,multi_language,1000,pending_verification
+APP024,Uber,Mobility and Travel,com.ubercab,IN,multi_language,1000,pending_verification
+APP025,Rapido,Mobility and Travel,com.rapido.passenger,IN,multi_language,1000,pending_verification
+APP026,ixigo,Mobility and Travel,com.ixigo,IN,multi_language,1000,pending_verification
+APP027,Inshorts,AI-enabled and Content,com.nis.app,IN,multi_language,1000,pending_verification
+APP028,Dailyhunt,AI-enabled and Content,com.eterno,IN,multi_language,1000,pending_verification
+APP029,ShareChat,AI-enabled and Content,in.mohalla.sharechat,IN,multi_language,1000,pending_verification
+APP030,Pocket FM,AI-enabled and Content,com.radio.pocketfm,IN,multi_language,1000,pending_verification
+
